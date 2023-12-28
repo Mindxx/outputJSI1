@@ -1,7 +1,7 @@
 
 let fetchAPIReview = document.getElementsByClassName("fetchAPIReview")
 
-fetch("../json/review.json")
+fetch("review.json")
     .then((response) => response.json())
     .then((data) => {
         for (i = 0; i < data.length; i++) {
