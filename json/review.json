@@ -1,0 +1,38 @@
+[
+    {
+        "comment": "This restaurant has a various menu with many dishes from all over the world which can really satisfy me.",
+        "img": "assets/img/testimonials/testimonials-1.jpg",
+        "name": "Tran Huong",
+        "customer": "Customer"
+    },
+    {
+        "comment": "I really love the menu for vegans. It tastes amazing, really nice services. I want to go bach to this restaurant for thousands.",
+        "img": "assets/img/testimonials/testimonials-2.jpg",
+        "name": "Thu Tran",
+        "customer": "Customer"
+    },
+    {
+        "comment": "The atmosphere of the restaurant is definitely amazing. It is really suitable for family meals.",
+        "img": "assets/img/testimonials/testimonials-3.jpg",
+        "name": "Huyen Le",
+        "customer": "Customer"
+    },
+    {
+        "comment": "I am interested in how all the furniture and waitors serve for all customer. It is an important factor for an elegant meal.",
+        "img": "assets/img/testimonials/testimonials-4.jpg",
+        "name": "Phuong Nguyen",
+        "customer": "Customer"
+    },
+    {
+        "comment": " I am really reccommend having a meal in this restaurant. It is suitable for all kinds of customers, include travellers.",
+        "img": "assets/img/testimonials/testimonials-5.jpg",
+        "name": "Nguyen Nghi",
+        "customer": "Customer"
+    },
+    {
+        "comment": "The atmosphere of the restaurant is definitely amazing. It is really suitable for family meals.",
+        "img": "assets/img/testimonials/testimonials-3.jpg",
+        "name": "Huyen Le",
+        "customer": "Customer"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "img": "assets/img/menu/lobster-bisque.jpg",
+        "name": "Lobster Bisque",
+        "description": "Lobster soup with cream and vegetables",
+        "price": "320,000"
+    },
+    {
+        "img": "assets/img/menu/bread-barrel.jpg",
+        "name": "Bread Barrel",
+        "description": "Nice bread is baked everyday",
+        "price": "100,000"
+    },
+    {
+        "img": "assets/img/menu/cake.jpg",
+        "name": "Crab Cake",
+        "description": "Crab cake with toasted roll, lettuce, tartar sauce",
+        "price": "220,000"
+    },
+    {
+        "img": "assets/img/menu/caesar.jpg",
+        "name": "Caesar Selections",
+        "description": "Salad with cheese, bread, mayonnaise",
+        "price": "120,000"
+    },
+    {
+        "img": "assets/img/menu/tuscan-grilled.jpg",
+        "name": "Tuscan Grilled",
+        "description": "Grilled chicken, artichoke hearts, red pesto",
+        "price": "120,000"
+    },
+    {
+        "img": "assets/img/menu/mozzarella.jpg",
+        "name": "Mozzarella Stick",
+        "description": "Well-fried cheese, ketchup sauce",
+        "price": "120,000"
+    },
+    {
+        "img": "assets/img/menu/greek-salad.jpg",
+        "name": "Greek Salad",
+        "description": "Spinach, crisp romaine, tomatoes, and Greek olives",
+        "price": "123,000"
+    },
+    {
+        "img": "assets/img/menu/spinach-salad.jpg",
+        "name": "Spinach Salad",
+        "description": "Spinach with mushrooms, boiled egg, warm vinaigrette",
+        "price": "120,000"
+    },
+    {
+        "img": "assets/img/menu/lobster-roll.jpg",
+        "name": "Lobster Roll",
+        "description": "Lobster, crisp lettuce on a toasted bulky roll",
+        "price": "120,000"
+    }
+]
